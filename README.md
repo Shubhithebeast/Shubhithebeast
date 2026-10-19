@@ -179,7 +179,7 @@ A streaming-platform project focused on a modern content-browsing experience.
 
 <div align="center">
 
-<img width="90%" src="https://raw.githubusercontent.com/Shubhithebeast/Shubhithebeast/output/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img width="90%" src="https://raw.githubusercontent.com/Shubhithebeast/Shubhithebeast/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
